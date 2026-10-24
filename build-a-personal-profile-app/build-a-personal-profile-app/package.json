@@ -1,0 +1,9 @@
+{
+  "name": "build-a-personal-profile-app",
+  "version": "1.0.0",
+  "description": "A personal profile app with Express",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
